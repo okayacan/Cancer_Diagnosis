@@ -1,4 +1,4 @@
-# Classification of cancer dignosis
+# Classification of cancer diagnosis
 # First we import the relevant libraries
 import numpy as np
 import matplotlib.pyplot as plt
